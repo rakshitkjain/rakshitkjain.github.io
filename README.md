@@ -4,3 +4,6 @@ A clean, beautiful, responsive portfolio template for Software Developers!
 
 
 Original Work of varadbhogayata (https://varadbhogayata.github.io)
+
+Teaching and Mentoring section
+Color
